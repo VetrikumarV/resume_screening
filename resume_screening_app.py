@@ -9,8 +9,6 @@ Original file is located at
 
 # Resume Screening App using Streamlit and OpenAI
 
-# 1. Install dependencies:
-!pip install streamlit openai python-docx
 
 import streamlit as st
 import openai
